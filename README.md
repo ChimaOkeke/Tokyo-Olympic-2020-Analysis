@@ -1,4 +1,5 @@
 Project Overview
+
 The "Olympics Data 2020 Dashboard" Power BI project offers a dynamic and data-rich visualization of key metrics from the Tokyo 2020 Olympic Games. It delivers an interactive and analytical view of athlete performance, medal distribution, country comparisons, and sports categories—empowering users to explore historical patterns, national achievements, and standout moments from the event.
 
 Key Features:
